@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_test",
+  "version": "1.0.0",
+  "description": "vscode git 을 사용하기 위한 저장소",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bestlym/nodejs_test.git"
+  },
+  "author": "bestlym",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bestlym/nodejs_test/issues"
+  },
+  "homepage": "https://github.com/bestlym/nodejs_test#readme"
+}
